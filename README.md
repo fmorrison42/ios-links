@@ -6,6 +6,10 @@ Links, Sites, and Articles that are of benefit to me now or in the future during
 - [Awesome Swift Libraries (github)](https://github.com/matteocrippa/awesome-swift)
 - [21 Legit Open Source Apps written in Swift](https://medium.mybridge.co/21-amazing-open-source-ios-apps-written-in-swift-5e835afee98e)
 
+## Guides
+- [Swift API Design Guidelines](https://swift.org/documentation/api-design-guidelines/)
+
+
 ## 📋 Awesome Lists
 - [Awesome iOS](https://github.com/vsouza/awesome-ios) - always updated collection of iOS frameworks, libraries, tutorials, Xcode extensions & plugins, and components, divided into categories. Awesome iOS was created in 2014 by Brazilian engineer Vinicius Souza and it has literally everything! Now Awesome iOS is curated by our good friend Lucas Farah, who encourage you to submit your iOS projects, blogs or anything useful for the community.
 - [Awesome macOS](https://github.com/iCHAIT/awesome-macOS) — huge curated repo of awesome applications, software, tools and shiny things for macOS. I must say, that every app & tool goes via manual approval. If it gets enough endorsements and maintainers find it useful, it will be accepted. That says a lot about the content quality in this list. And if you are looking for more places to discover new macOS apps, check MacApps subreddit or mac section at Product Hunt.

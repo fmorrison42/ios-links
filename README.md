@@ -4,6 +4,7 @@ Links, Sites, and Articles that are of benefit to me now or in the future during
 ## Projects
 - [Sam V Lu - 100 Days of Swift](https://samvlu.com)
 - [Awesome Swift Libraries (github)](https://github.com/matteocrippa/awesome-swift)
+- [21 Legit Open Source Apps written in Swift](https://medium.mybridge.co/21-amazing-open-source-ios-apps-written-in-swift-5e835afee98e)
 
 ## 📋 Awesome Lists
 - [Awesome iOS](https://github.com/vsouza/awesome-ios) - always updated collection of iOS frameworks, libraries, tutorials, Xcode extensions & plugins, and components, divided into categories. Awesome iOS was created in 2014 by Brazilian engineer Vinicius Souza and it has literally everything! Now Awesome iOS is curated by our good friend Lucas Farah, who encourage you to submit your iOS projects, blogs or anything useful for the community.

@@ -8,7 +8,7 @@ Links, Sites, and Articles that are of benefit to me now or in the future during
 
 ## Guides
 - [Swift API Design Guidelines](https://swift.org/documentation/api-design-guidelines/)
-- [Swift Package Manager](https://github.com/apple/swift-package-manager/blob/master/Documentation/PackageDescriptionV4.md
+- [Swift Package Manager](https://github.com/apple/swift-package-manager/blob/master/Documentation/PackageDescriptionV4.md)
 
 
 ## 📋 Awesome Lists
